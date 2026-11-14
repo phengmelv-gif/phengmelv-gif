@@ -19,15 +19,15 @@ and turning ideas into real projects. ✨
 
 <!-- Row 1: Stats | Top Languages by Repo | Commits (UTC) -->
 <p align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&custom_title=Stats&rank_icon=github&show_icons=true&include_all_commits=false&count_private=true&theme=dark&bg_color=0a0f1f&title_color=ffffff&text_color=ffffff&icon_color=9aa4c7&border_color=c9d1e8&border_radius=4" alt="Stats" />
-  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=dark" alt="Top Languages by Repo" />
-  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=dark&utcOffset=7" alt="Commits (UTC +7)" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=phengmelv-gif&custom_title=Stats&rank_icon=github&show_icons=true&include_all_commits=false&count_private=true&theme=dark&bg_color=0a0f1f&title_color=ffffff&text_color=ffffff&icon_color=9aa4c7&border_color=c9d1e8&border_radius=4" alt="Stats" />
+  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phengmelv-gif&theme=dark" alt="Top Languages by Repo" />
+  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phengmelv-gif&theme=dark&utcOffset=7" alt="Commits (UTC +7)" />
 </p>
 
 <!-- Row 2: Profile details | Streak -->
 <p align="center">
-  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=dark" alt="Profile Details" />
-  <img height="190" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&background=0a0f1f&border=c9d1e8&stroke=c9d1e8&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=9aa4c7&border_radius=4" alt="GitHub Streak" />
+  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phengmelv-gif&theme=dark" alt="Profile Details" />
+  <img height="190" src="https://streak-stats.demolab.com?user=phengmelv-gif&theme=dark&background=0a0f1f&border=c9d1e8&stroke=c9d1e8&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=9aa4c7&border_radius=4" alt="GitHub Streak" />
 </p>
 
 </details>
@@ -51,5 +51,5 @@ and turning ideas into real projects. ✨
 
 <!-- Optional link row (delete if you don't need it) -->
 <p align="center">
-  ♥ <a href="https://YOUR_LINK_1">rentry</a> ✦ <a href="https://linktr.ee/YOUR_USERNAME">linktr.ee</a> ✦ <a href="https://YOUR_USERNAME.carrd.co">carrd.co</a> ✦ <a href="https://YOUR_NOTION_LINK">notion</a> ♥
+  ♥ <a href="https://YOUR_LINK_1">rentry</a> ✦ <a href="https://linktr.ee/phengmelv-gif">linktr.ee</a> ✦ <a href="https://phengmelv-gif.carrd.co">carrd.co</a> ✦ <a href="https://YOUR_NOTION_LINK">notion</a> ♥
 </p>
