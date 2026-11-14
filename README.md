@@ -45,7 +45,7 @@ and turning ideas into real projects. ✨
 <p align="center">
   <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/GMAIL-0b1a3a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME"><img src="https://img.shields.io/badge/INSTAGRAM-0b1a3a?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME"><img src="https://img.shields.io/badge/FACEBOOK-0b1a3a?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="[https://www.facebook.com/YOUR_FACEBOOK_USERNAME](https://www.facebook.com/share/1UZzmWMXRc/?mibextid=wwXIfr)"><img src="https://img.shields.io/badge/FACEBOOK-0b1a3a?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://wa.me/YOUR_PHONE_NUMBER"><img src="https://img.shields.io/badge/WHATSAPP-0b1a3a?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
 
