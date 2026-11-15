@@ -44,9 +44,10 @@ and turning ideas into real projects. ✨
 <!-- ======================= CONTACT (dark navy badges) ======================= -->
 <p align="center">
   <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/GMAIL-0b1a3a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME"><img src="https://img.shields.io/badge/INSTAGRAM-0b1a3a?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.instagram.com/[YOUR_INSTAGRAM_USERNAME](https://www.instagram.com/pheng_gggg?vrfl=MWRqb2s1dWZnMHM2eQ%3D%3D&utm_source=qr)"><img src="https://img.shields.io/badge/INSTAGRAM-0b1a3a?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.facebook.com/[YOUR_FACEBOOK_USERNAME](https://www.facebook.com/share/1UZzmWMXRc/?mibextid=wwXIfr)"><img src="https://img.shields.io/badge/FACEBOOK-0b1a3a?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://wa.me/YOUR_PHONE_NUMBER"><img src="https://img.shields.io/badge/WHATSAPP-0b1a3a?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://wa.me/<img width="590" height="1280" alt="image" src="https://github.com/user-attachments/assets/0dd7dd16-beca-4424-9256-5c31e2003ce9" />
+"><img src="https://img.shields.io/badge/WHATSAPP-0b1a3a?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
 
 <!-- Optional link row (delete if you don't need it) -->
