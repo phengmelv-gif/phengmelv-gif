@@ -20,9 +20,9 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=phengmelv-gif&show_icons=true&hide_border=true&bg_color=080D18&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF" alt="GitHub Statistics" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phengmelv-gif&theme=github_dark" alt="GitHub Statistics" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phengmelv-gif&layout=donut&langs_count=8&hide_border=true&bg_color=080D18&title_color=00E5FF&text_color=FFFFFF" alt="Top Programming Languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phengmelv-gif&theme=github_dark" alt="Top Programming Languages" />
 
 <br/>
 
